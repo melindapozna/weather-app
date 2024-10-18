@@ -1,4 +1,9 @@
-
+/*
+------------------------------------------------------------
+remove api key before committing!!!
+------------------------------------------------------------
+*/
+const apiKey = ""
 
 
 async function getCoordinates(city) {
